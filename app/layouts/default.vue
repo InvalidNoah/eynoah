@@ -1,5 +1,4 @@
 <template>
-<title> [$route.name] </title>
   <main :class="[$route.name]" class="main px-4 md:px-0">
     <div class="container mx-auto">
       <site-header />
